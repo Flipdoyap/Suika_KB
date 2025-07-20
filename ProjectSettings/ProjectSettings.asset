@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 06c77b3b18ab8d840b6905331f44b83b
+  productGUID: 9bdf72972d384714f9a6fd5fb4e88ff8
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Test
+  productName: ketu
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -838,14 +838,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Test
+  metroPackageName: ketu
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Test
+  metroApplicationDescription: ketu
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -916,11 +916,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: ac30f724-fc7b-4a2e-81d3-85d590bb8c02
+  cloudProjectId: e75a89ab-54b6-40ba-874c-ecbe3d18df48
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Test
-  organizationId: hachibit
+  projectName: ketu
+  organizationId: sonotank
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
